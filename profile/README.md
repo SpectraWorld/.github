@@ -11,7 +11,7 @@
 
 - 🌱 We are currently working on **Garry'S Mod DARKRP and Minecraft**
 
-- 👯 The two owners are [eins black](https://einsblack.github.io) and Abow
+- 👯 The two owners are [eins black](https://einsblack.github.io) and [Abow](https://github.com/Aboowwww)
 
 - 💻 Our Portfolio [Click here](https://spectraworld.de/portfolio)
 
